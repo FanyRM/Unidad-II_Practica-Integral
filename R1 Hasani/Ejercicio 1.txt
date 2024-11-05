@@ -1,0 +1,118 @@
+//De acuerdo a los siguientes Objetos:
+
+//Clase tienda {Tienda(ubicacion,nombre,horario).}
+class Tienda {
+  String ubicacion;
+  String nombre_tienda;
+  String horario;
+
+  Tienda(this.ubicacion, this.nombre_tienda, this.horario);
+
+  void leerTienda() {
+    //print("Tienda ========================");
+    //Esto lo puse para que se vea bonito
+    print("Producto: $ubicacion");
+    print("Cantidad: $nombre_tienda");
+    print("Precio: $horario");
+  }
+}
+
+//Producto(Nombre,cantidad,precio,existencia),
+class Producto extends Tienda {
+  String nombre;
+  int cantidad;
+  double precio;
+  int existencia;
+
+  Producto(this.nombre, this.cantidad, this.precio, this.existencia,
+      String ubicacion, String nombre_tienda, String horario)
+      : super(ubicacion, nombre_tienda, horario);
+  void leerProducto() {
+    //print("Productos ======================");
+    //Esto lo puse para que se vea bonito
+    print("Producto: $nombre");
+    print("Cantidad: $cantidad");
+    print("Precio: $precio");
+    print("Existencia: $existencia");
+  }
+}
+
+//Pedido(nombre_producto,tiempo_entrega, cantidad, costoTotal),
+class Pedido extends Producto {
+  String nombre_producto;
+  String tiempo_entrega;
+  int cantidad_pedido;
+  double costoTotal;
+
+  Pedido(
+      this.nombre_producto,
+      this.tiempo_entrega,
+      this.cantidad_pedido,
+      this.costoTotal,
+      String nombre,
+      int cantidad,
+      double precio,
+      int existencia,
+      String ubicacion,
+      String nombre_tienda,
+      String horario)
+      : super(nombre, cantidad, precio, existencia, ubicacion, nombre_tienda,
+            horario);
+  void leerPedido() {
+    //print("Pedidos ======================");
+    //Esto lo puse para que se vea bonito pero mejor lo quite
+    print("Nombre de producto: $nombre_producto");
+    print("Tiempo de entrega: $tiempo_entrega");
+    print("Cantidad: $cantidad_pedido");
+    print("Costo total de pedido: $costoTotal");
+  }
+}
+
+//Ejercicio 2- realizar un ejemplo con dart, aplicando mapas con herencia de objetos, listado de métodos con una lista de mapas, aplicar método Future listando al menos 20 objetos.
+//Ejercicio 3-realizar un ejemplo con dart,aplicando métodos de filtrado de datos maps con stream, los filtros deben de ser, búsqueda por producto, búsqueda por tienda, calcular el costo total de un pedido y numero de productos, listar al menos 25 objetos.
+
+void main() {
+  //Ejercicio 1- realizar un ejemplo con dart, aplicando herencia de objetos, metodos para acceder a los datos, listar al menos 10 objetos y flitrarlos por pedido.
+
+  List<Pedido> list = [
+    Pedido("Laptop", "3 días", 5, 62500.0, "Asus Pro", 5, 12500.0, 10,
+        "Almacén Central", "Electrónica Artic", "9 AM - 7 PM"),
+    Pedido("Laptop", "7 días", 6, 63000.0, "Lenovo NIXU", 6, 10500.0, 10,
+        "Almacén Central", "Guayabo Gamer", "9 AM - 7 PM"),
+    Pedido("Consola de videojuegos", "7 días", 3, 1500.0, "PlayStation 5", 3,
+        500.0, 5, "Sucursal Norte", "Gamer Zone", "10 AM - 9 PM"),
+    Pedido("Impresora", "3 días", 4, 800.0, "HP LaserJet", 4, 200.0, 30,
+        "Sucursal Oeste", "Guayabo Gamer", "9 AM - 5 PM"),
+    Pedido("Laptop", "16 días", 10, 125000.0, "Asus Gamer", 10, 12500.0, 18,
+        "Almacén Central", "El rincon del friki", "9 AM - 7 PM"),
+    Pedido("Cámara", "4 días", 7, 2800.0, "Canon EOS", 7, 400.0, 20,
+        "Sucursal Este", "Gamer Zone", "9 AM - 7 PM"),
+    Pedido("Consola de videojuegos", "7 días", 3, 22500.0, "XBOX", 3, 7500.0, 5,
+        "Sucursal Norte", "El rincon del friki", "10 AM - 9 PM"),
+    Pedido("Tablet", "2 días", 6, 1800.0, "iPad Air", 6, 300.0, 25,
+        "Almacén Principal", "Gamer Zone", "9 AM - 8 PM"),
+    Pedido("Laptop", "6 días", 10, 145000.0, "HP Elite", 10, 14500.0, 18,
+        "Almacén Central", "Guayabo Games", "9 AM - 7 PM"),
+    Pedido("Auriculares", "1 día", 20, 1000.0, "Sony WH-1000XM4", 20, 50.0, 100,
+        "Sucursal Sur", "Guayabo Games", "8 AM - 5 PM")
+  ];
+
+  String datofiltro1 = "Laptop";
+  var filtroPedido =
+      list.where((pedido) => pedido.nombre_producto == datofiltro1).toList();
+
+  print("Pedidos de $datofiltro1 ==================");
+  for (Pedido pedido in filtroPedido) {
+    print("=================================");
+    pedido.leerPedido();
+    pedido.leerProducto();
+    pedido.leerTienda();
+  }
+
+  //Esto lo use para ver si si estaba jalando esto
+  //for(Pedido pedido in list){
+  //pedido.leerPedido();
+  //pedido.leerProducto();
+  //pedido.leerTienda();
+  //}
+}
