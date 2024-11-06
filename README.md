@@ -6,6 +6,7 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 | Asingación | Información |
 |--|--|
 | Alumno | Celeste Estefanía Ramírez Matehuala |
+| Número de control | 1223100435 |
 | Gupo | GDS0642 |
 
 
@@ -21,18 +22,20 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 | Asingación | Información |
 |--|--|
 | Videos | https://drive.google.com/drive/folders/1Vg52hGgXfoQ5zpYNFCtLAtxAqX_tDwXe?usp=drive_link |
-| Código |  |
+| Código | https://drive.google.com/drive/folders/1aK9W6L3nJ1zWrvxyCcxx0nnGOnB7uTCD?usp=drive_link |
 
 
 # Proyecto Navideño
 | Asingación | Información |
 |--|--|
-| Videos | https://drive.google.com/drive/folders/1Vg52hGgXfoQ5zpYNFCtLAtxAqX_tDwXe?usp=drive_link |
+| Explicación |  |
+| Video |  |
 
 
 # Examenes
 | Asingación | Información |
 |--|--|
+| Cómo lo aplicaria |  |
 | Examenes Phyton | <img width="942" alt="Examenes de tacho 2 0" src="https://github.com/user-attachments/assets/eec177b1-0733-42cc-a146-5cfaf695bdb0">|
 
 # Cooevaluación
