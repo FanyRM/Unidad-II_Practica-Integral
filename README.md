@@ -17,8 +17,29 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 | Código práctica | https://github.com/FanyRM/Unidad-II_Practica-Integral/blob/main/Ejercicio_Practico_Integral |
 
 
-
+# Ejercicios en clase
 | Asingación | Información |
 |--|--|
 | Videos | https://drive.google.com/drive/folders/1Vg52hGgXfoQ5zpYNFCtLAtxAqX_tDwXe?usp=drive_link |
+| Código |  |
+
+
+# Proyecto Navideño
+| Asingación | Información |
+|--|--|
+| Videos | https://drive.google.com/drive/folders/1Vg52hGgXfoQ5zpYNFCtLAtxAqX_tDwXe?usp=drive_link |
+
+
+# Examenes
+| Asingación | Información |
+|--|--|
 | Examenes Phyton | <img width="942" alt="Examenes de tacho 2 0" src="https://github.com/user-attachments/assets/eec177b1-0733-42cc-a146-5cfaf695bdb0">|
+
+# Cooevaluación
+| Asingación | Información |
+|--|--|
+| Nombre del alumno  a evaluar | |
+| Número de control | |
+| Aspectos positivos ||
+| Aspectos negativos ||
+| Áreas de oportunidad ||
