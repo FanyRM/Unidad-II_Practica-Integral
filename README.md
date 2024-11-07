@@ -41,8 +41,8 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 # Cooevaluación
 | Asingación | Información |
 |--|--|
-| Nombre del alumno  a evaluar | |
-| Número de control | |
-| Aspectos positivos ||
-| Aspectos negativos ||
-| Áreas de oportunidad ||
+| Nombre del alumno  a evaluar | Hernandez Diaz Brayan Leonel |
+| Número de control | 1223100409 |
+| Aspectos positivos | Mi compañero es proactivo en el desarrollo de soluciones a problemas, tiene una gran aplitud de investigación y desea siempre sacar lo mejor |
+| Aspectos negativos | Es negativo y poco comunicativo, se deprime con fácilidad lo que vuelve complejo el trabajo en equipo, no es bueno en la construcción de código desde 0 y de soluciones originales |
+| Áreas de oportunidad | Puede mejorar en su conocimiento de lenguajes y lógica de programación, puede llegar a tener mejor comunicación con su entorno |
