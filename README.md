@@ -28,14 +28,14 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 # Proyecto Navideño
 | Asingación | Información |
 |--|--|
-| Explicación |  |
-| Video |  |
+| Explicación | En este proyecto se pretende que se simule el movimiento de las patas de una Alpaca robotica, y su cabeza, encendido de luces led para una serie en el arbol de navidad y musica para el fondo de este proyecto teniendo como activador un sensor de distancia |
+| Video | https://drive.google.com/file/d/1W1El6DMCqWJUjQBbjjHQjIiACA5wWXpn/view?usp=drive_link |
 
 
 # Examenes
 | Asingación | Información |
 |--|--|
-| Cómo lo aplicaria |  |
+| Cómo lo aplicaria | En esta unidad, el haber aplicado este curso de Phyton me facilita el conocimiento para aplicarlo en mi proyecto navideño, usando una versión pequeña que es MicroPhyton. Es un lenguaje fácil y aunque tiene su chiste tiene una gran area de oportunidad para desarrollar código |
 | Examenes Phyton | <img width="942" alt="Examenes de tacho 2 0" src="https://github.com/user-attachments/assets/eec177b1-0733-42cc-a146-5cfaf695bdb0">|
 
 # Cooevaluación
