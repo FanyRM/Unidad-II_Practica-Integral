@@ -22,7 +22,7 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 | Asingación | Información |
 |--|--|
 | Videos | https://drive.google.com/drive/folders/1Vg52hGgXfoQ5zpYNFCtLAtxAqX_tDwXe?usp=drive_link |
-| Código | https://drive.google.com/drive/folders/1aK9W6L3nJ1zWrvxyCcxx0nnGOnB7uTCD?usp=drive_link |
+| Código | https://github.com/FanyRM/Unidad-II_Practica-Integral/tree/main/C%C3%B3digos%20IOT |
 
 
 # Proyecto Navideño
