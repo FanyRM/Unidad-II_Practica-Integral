@@ -43,6 +43,6 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 |--|--|
 | Nombre del alumno  a evaluar | Hernandez Diaz Brayan Leonel |
 | Número de control | 1223100409 |
-| Aspectos positivos | Mi compañero es proactivo en el desarrollo de soluciones a problemas, tiene una gran aplitud de investigación y desea siempre sacar lo mejor |
-| Aspectos negativos | Es negativo y poco comunicativo, se deprime con fácilidad lo que vuelve complejo el trabajo en equipo, no es bueno en la construcción de código desde 0 y de soluciones originales |
-| Áreas de oportunidad | Puede mejorar en su conocimiento de lenguajes y lógica de programación, puede llegar a tener mejor comunicación con su entorno |
+| Aspectos positivos | Mi compañero es proactivo en el desarrollo de soluciones a problemas (es decir, si se esfuerza para corregir los errores), tiene una gran aplitud de investigación (si no sabe, se encarga de saber) y desea siempre sacar lo mejor |
+| Aspectos negativos | Es negativo y poco comunicativo (no dice lo que le molesta y no toma deciciones propias), se deprime con fácilidad lo que vuelve complejo el trabajo en equipo (se vuelve tedioso su pesimismo y su falta de empatía y apertura), no es bueno en la construcción de código desde 0 y de soluciones originales |
+| Áreas de oportunidad | Puede mejorar en su conocimiento de lenguajes y lógica de programación, puede llegar a tener mejor comunicación con su entorno y ser más empatico a su entorno |
