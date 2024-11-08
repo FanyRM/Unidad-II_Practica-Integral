@@ -28,7 +28,7 @@ A continuación en el siguiente documento encontraremos las evidencias de las ac
 # Proyecto Navideño
 | Asingación | Información |
 |--|--|
-| Explicación | En este proyecto se pretende que se simule el movimiento de las patas de una Alpaca robotica, y su cabeza, encendido de luces led para una serie en el arbol de navidad y musica para el fondo de este proyecto teniendo como activador un sensor de distancia |
+| Explicación | En este proyecto se pretende que se simule el movimiento de las patas de una Alpaca robotica, y su cabeza, encendido de luces led para una serie en el arbol de navidad y musica para el fondo de este proyecto teniendo como activador un sensor de distancia. Se simula el movimiento pero todavía falta armar las partes de la alpaca |
 | Video | https://drive.google.com/file/d/1W1El6DMCqWJUjQBbjjHQjIiACA5wWXpn/view?usp=drive_link |
 
 
